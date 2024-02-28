@@ -9,15 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-seoul/masonry-list": "^1.4.2",
     "@react-navigation/native": "^6.1.12",
     "@react-navigation/native-stack": "^6.9.20",
+    "axios": "^1.6.7",
     "expo": "~50.0.8",
+    "expo-linear-gradient": "^12.7.2",
     "expo-status-bar": "~1.11.1",
     "lottie-react-native": "6.5.1",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.73.4",
-    "react-native-reanimated": "^3.3.0",
+    "react-native-heroicons": "^4.0.0",
+    "react-native-reanimated": "~3.6.2",
     "react-native-responsive-screen": "^1.4.2",
     "react-native-tailwindcss": "^1.1.11"
   },
